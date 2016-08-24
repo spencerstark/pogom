@@ -1,0 +1,128 @@
+{
+  "CONFIG_PASSWORD": "Subaru!",
+  "ACCOUNTS": [
+    {
+      "username": "oliverisadog",
+      "password": "password"
+    },
+    {
+      "username": "americaninjawarr",
+      "password": "password"
+    },
+    {
+      "username": "ANW12345",
+      "password": "password"
+    },
+    {
+      "username": "ANW123456",
+      "password": "password"
+    },
+    {
+      "username": "ANW1234567",
+      "password": "password"
+    },
+    {
+      "username": "lolim13",
+      "password": "password"
+    },
+    {
+      "username": "lolim14",
+      "password": "password"
+    },
+    {
+      "username": "lolim15",
+      "password": "password"
+    },
+    {
+      "username": "lolim16",
+      "password": "password"
+    },
+    {
+      "username": "lolim17",
+      "password": "password"
+    },
+    {
+      "username": "lolim18",
+      "password": "password"
+    },
+    {
+      "username": "lolim19",
+      "password": "password"
+    },
+    {
+      "username": "lolim20",
+      "password": "password"
+    },
+    {
+      "username": "lolim21",
+      "password": "password"
+    },
+    {
+      "username": "lolim22",
+      "password": "password"
+    },
+    {
+      "username": "lolim23",
+      "password": "password"
+    }
+  ],
+  "SCAN_LOCATIONS": [
+    {
+      "latitude": 40.78431088699294,
+      "altitude": 0,
+      "radius": 100,
+      "location": "40.784310887,-96.6732501984",
+      "longitude": -96.67325019836426
+    },
+    {
+      "latitude": 40.81469430313793,
+      "altitude": 0,
+      "radius": 700,
+      "location": "40.8146943031,-96.6901481152",
+      "longitude": -96.69014811515808
+    },
+    {
+      "latitude": 40.808383,
+      "altitude": 0,
+      "radius": 300,
+      "location": "40.808383, -96.687435",
+      "longitude": -96.687435
+    },
+    {
+      "latitude": 40.78749525996358,
+      "altitude": 0,
+      "radius": 500,
+      "location": "40.78749526,-96.6994285583",
+      "longitude": -96.69942855834961
+    },
+    {
+      "latitude": 40.85011186985922,
+      "altitude": 0,
+      "radius": 300,
+      "location": "40.8501118699,-96.7836284637",
+      "longitude": -96.78362846374512
+    },
+    {
+      "latitude": 40.779826511063796,
+      "altitude": 0,
+      "radius": 1200,
+      "location": "40.7798265111,-96.6326522827",
+      "longitude": -96.63265228271484
+    },
+    {
+      "latitude": 40.75944803383745,
+      "altitude": 0,
+      "radius": 300,
+      "location": "40.7594480338,-96.5922689438",
+      "longitude": -96.59226894378662
+    },
+    {
+      "latitude": 40.771790,
+      "altitude": 0,
+      "radius": 120,
+      "location": "40.771790, -96.678042",
+      "longitude": -96.678042
+    }
+  ],
+  "GOOGLEMAPS_KEY": "AIzaSyCvDOHXg-emVcBMyjcRmlccdVNsXkw3i-E"
+}
